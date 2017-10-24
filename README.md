@@ -46,20 +46,26 @@ Most of this has been taken from (_again_) Peter Norvig's spell - checker tutori
 - http://nbviewer.jupyter.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb 
 >   Statistical Natural Language Processiong in Python 
 
+
 - http://ota.ox.ac.uk/headers/0643.xml
 >   Birkbeck Spelling Error Corpus: Computer Readable English Spelling errors 
+
 
 - http://norvig.com/ngrams/ 
 >   The code and data by Peter Norvig to Natural Language Data: Beautiful Data 
 
+
 - http://www.dcs.bbk.ac.uk/~roger/spellchecking.html 
 > Spell - checking by computers, survey article by Roger Mitton 
+
 
 - http://alias-i.com/lingpipe/demos/tutorial/querySpellChecker/read-me.html 
 > Spelling - checker tutorial by the LingPipe project 
 
+
 - http://aspell.net/ 
 > The aspell project and oh! They have better test data [here](http://aspell.net/test) 
+
 
 _In case you forgot, our test data is big.txt_ 
 
