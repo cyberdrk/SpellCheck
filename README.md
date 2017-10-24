@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 Hats off to [Peter Norvig](https://github.com/norvig)'s amazing tutorial [here](http://norvig.com/spell-correct.html) for taking the time out to blog. 
-> Also, don't forget to check out his personal blog. You'll end up finding gems there 😉
+> Also, don't forget to check out his personal blog. You'll end up finding hidden gems there 😉
 
 
 ## Additional Resources
